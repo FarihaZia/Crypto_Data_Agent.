@@ -79,7 +79,7 @@ def run_crypto_checker():
         run_config=config
     )
 
-    print("\n📊 Result:")
+    print("\n Result:")
     print(result.final_output)
 
 
